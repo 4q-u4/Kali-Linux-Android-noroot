@@ -37,7 +37,7 @@ Before getting started, ensure that you have the following prerequisites:
 
 ### Setting up Kali Linux 💻
 
-![Alt text](https://github.com/4q-u4/Kali-Linux-Android-noroot/blob/main/images/Screenshot_20230913_152949_Andronix.jpg "a title")
+![Alt text](https://github.com/4q-u4/Kali-Linux-Android-noroot/blob/main/images/photo1.jpg "a title")
 
 1. Open Termux and update its package lists:
    ```shell
