@@ -38,8 +38,8 @@ Before getting started, ensure that you have the following prerequisites:
 ### Setting up Kali Linux 💻
 
 <div style="text-align: center;"><img src="images/photo1.jpg" style="width: 100%;"></a></div> 
-<div style="text-align: center;"><img src="images/photo1.jpg" style="width: 100%;"></a></div> 
-<div style="text-align: center;"><img src="images/photo1.jpg" style="width: 100%;"></a></div> 
+<div style="text-align: center;"><img src="images/photo2.jpg" style="width: 100%;"></a></div> 
+<div style="text-align: center;"><img src="images/photo3.jpg" style="width: 100%;"></a></div> 
 
 1. Open Termux and update its package lists:
    ```shell
