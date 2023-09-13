@@ -8,19 +8,14 @@ If you found this guide helpful and appreciate the effort put into creating it, 
 
 
 ## Table of Contents 📋
-1. [Introduction](#introduction)
-2. [Prerequisites](#prerequisites)
-3. [Installation Steps](#installation-steps)
+1. [Prerequisites](#prerequisites)
+2. [Installation Steps](#installation-steps)
     a. [Installing Andronix](#installing-andronix)
     b. [Setting up Kali Linux](#setting-up-kali-linux)
     c. [Accessing Kali Linux](#accessing-kali-linux)
-4. [Troubleshooting](#troubleshooting)
-5. [Contributing](#contributing)
-6. [License](#license)
-
-## Introduction 📚
-
-Kali Linux is a powerful penetration testing and ethical hacking platform. This tutorial will help you install Kali Linux on your Android device, allowing you to perform security assessments and various tasks directly from your smartphone or tablet. 🕵️‍♂️🔍
+3. [Troubleshooting](#troubleshooting)
+4. [Contributing](#contributing)
+5. [License](#license)
 
 ## Prerequisites 🛠️
 
@@ -29,18 +24,18 @@ Before getting started, ensure that you have the following prerequisites:
 - An Android device (phone or tablet) with at least 2GB of RAM (4GB or more recommended). 📱
 - Sufficient storage space available on your device (around 5GB). 💾
 - A stable internet connection for downloading necessary files. 🌐
-- Termux app installed from the Google Play Store. 📦
-- Real VNC Viewer app installed from the Google Play Store. 📺
-- Basic familiarity with the Linux command line. 💡
 
 ## Installation Steps 🛠️
 
-### Installing Andronix 📲
+### Installing ANDRONIX | TERMUX | RVNC VIEWER 📲
 
-1. Open the Google Play Store on your Android device. 📱
-2. Search for "Andronix" and install the app. 📦
-3. Launch Andronix and follow the on-screen instructions to set up its environment. 🚀
-4. Make sure to grant necessary permissions and complete the initial setup. 🔒
+[Press Here To Download Andronix](https://play.google.com/store/apps/details?id=studio.com.techriz.andronix&pcampaignid=web_share)
+
+[Press Here To Download Termux](https://play.google.com/store/apps/details?id=com.termux&pcampaignid=web_share)
+
+[Press Here To Download RVNC Viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android&pcampaignid=web_share)
+
+
 
 ### Setting up Kali Linux 💻
 
