@@ -29,11 +29,11 @@ Before getting started, ensure that you have the following prerequisites:
 
 ### Installing ANDRONIX | TERMUX | RVNC VIEWER 📲
 
-[Press Here To Download Andronix](https://play.google.com/store/apps/details?id=studio.com.techriz.andronix&pcampaignid=web_share)
+[Press Here To Download Andronix](https://play.google.com/store/apps/details?id=studio.com.techriz.andronix&pcampaignid=web_share){:target="_blank"}
 
-[Press Here To Download Termux](https://play.google.com/store/apps/details?id=com.termux&pcampaignid=web_share)
+[Press Here To Download Termux](https://play.google.com/store/apps/details?id=com.termux&pcampaignid=web_share){:target="_blank"}
 
-[Press Here To Download RVNC Viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android&pcampaignid=web_share)
+[Press Here To Download RVNC Viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android&pcampaignid=web_share){:target="_blank"}
 
 
 
