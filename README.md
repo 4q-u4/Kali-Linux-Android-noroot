@@ -1,6 +1,11 @@
-# Kali Linux on Android (No Root) Installation Guide 📱💻
+# Kali Linux on Android Without Root - Installation Guide 📱💻
 
-Welcome to the Kali-Linux-Android-noroot repository! This guide will walk you through the detailed steps to install Kali Linux on your Android device without the need for rooting. We will use Andronix, Termux, and Real VNC Viewer to achieve this setup. 🚀
+I created this detailed tutorial to help the community install Kali Linux on Android devices without the need for rooting. I had faced numerous challenges and failures while attempting to install Kali Linux on my Android device using various methods. After extensive research and experimentation, I finally discovered a solution that worked reliably. 
+
+This repository provides a step-by-step guide on how to achieve this setup using Andronix, Termux, and Real VNC Viewer. My goal is to make the installation process as straightforward as possible, ensuring that even those with minimal Linux experience can successfully run Kali Linux on their Android devices.
+
+If you found this guide helpful and appreciate the effort put into creating it, please consider giving this repository a star (⭐) on GitHub. Your support means a lot and will help others discover this resource.
+
 
 ## Table of Contents 📋
 1. [Introduction](#introduction)
