@@ -55,7 +55,8 @@ Step 5:
 
 <div style="text-align: center;"><img src="images/photo5.jpg" style="width: 40%;"></a></div> 
 
-
+### Open Termux And Follow Instructions: 💻
+<hr>
 1. Open Termux and update its package lists:
    ```shell
    pkg update && pkg upgrade
