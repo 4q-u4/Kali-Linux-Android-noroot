@@ -5,7 +5,6 @@ I had faced numerous challenges and failures while attempting to install Kali Li
 This repository provides a step-by-step guide on how to achieve this setup using Andronix, Termux, and Real VNC Viewer.
 
 If you found this guide helpful and appreciate the effort put into creating it, please consider giving this repository a star (⭐) on GitHub. Your support means a lot and will help others discover this resource.
-<hr> 
 
 ## Prerequisites 🛠️
 
