@@ -36,15 +36,15 @@ Before getting started, ensure that you have the following prerequisites:
 
 ### Open Andronix And Follow Instructions: 💻
 Step 1:
-<div style="text-align: center;"><img src="images/photo1.jpg" style="width: 50%;"></a></div> 
+<div style="text-align: center;"><img src="images/photo1.jpg" style="width: 40%;"></a></div> 
 Step 2:
-<div style="text-align: center;"><img src="images/photo2.jpg" style="width: 50%;"></a></div> 
+<div style="text-align: center;"><img src="images/photo2.jpg" style="width: 40%;"></a></div> 
 Step 3:
-<div style="text-align: center;"><img src="images/photo3.jpg" style="width: 50%;"></a></div> 
+<div style="text-align: center;"><img src="images/photo3.jpg" style="width: 40%;"></a></div> 
 Step 4:
-<div style="text-align: center;"><img src="images/photo4.jpg" style="width: 50%;"></a></div> 
+<div style="text-align: center;"><img src="images/photo4.jpg" style="width: 40%;"></a></div> 
 Step 5:
-<div style="text-align: center;"><img src="images/photo5.jpg" style="width: 50%;"></a></div> 
+<div style="text-align: center;"><img src="images/photo5.jpg" style="width: 40%;"></a></div> 
 
 
 1. Open Termux and update its package lists:
