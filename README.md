@@ -63,4 +63,15 @@ $ vncserver-start
 ```bash
 $ vncserver-stop
 ```
+<hr>
 
+### Open VNC viewer And Follow Instructions: 💻
+
+1. Press On the + in the corner down
+2. Enter Address and Name It Whatever you want
+```bash
+127.0.0.1:5901
+```
+3. Then Press connect to establish connection with server
+4. Type the Password you set earlier
+5. And Now You're Done , Congrats !!
