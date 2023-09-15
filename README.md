@@ -9,12 +9,11 @@ If you found this guide helpful and appreciate the effort put into creating it, 
 ## Table of Contents 📋
 1. [Prerequisites](#prerequisites)
 2. [Installation Steps](#installation-steps)
-    a. [Installing Andronix | Termux | RVNC ](#Installing-ANDRONIX-TERMUX-RVNCviewer)
-    b. [Setting up Kali Linux](#setting-up-kali-linux)
-    c. [Accessing Kali Linux](#accessing-kali-linux)
-3. [Troubleshooting](#troubleshooting)
-4. [Contributing](#contributing)
-5. [License](#license) 
+3. [Installing Andronix | Termux | RVNC ](#Installing-ANDRONIX-TERMUX-RVNCviewer)
+4. [Setting up Kali Linux](#setting-up-kali-linux)
+5. [Accessing Kali Linux](#accessing-kali-linux)
+6. [Troubleshooting](#troubleshooting)
+7. [Contributing](#contributing)
 
 ## Prerequisites 🛠️
 
@@ -80,3 +79,13 @@ $ ./start-kali.sh
 3. Then Press connect to establish connection with server
 4. Type the Password you set earlier
 5. And Now You're Done , Congrats !!
+!! Consider giving this repository a star , if you found it helpful (⭐) !!
+
+## Troubleshooting 🛠️
+
+If you encounter any issues during the installation or usage of Kali Linux on your Android device, please refer to the troubleshooting guide in this repository for common solutions to known problems.
+
+## Contributing 🤝
+
+Contributions to this repository are welcome. If you have any improvements, bug fixes, or additional documentation to contribute, please fork this repository and submit a pull request.
+
