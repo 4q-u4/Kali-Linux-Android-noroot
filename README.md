@@ -63,6 +63,11 @@ $ vncserver-start
 ```bash
 $ vncserver-stop
 ```
+(You may need to run this command to start os after stopping and exiting)
+```bash
+$ ls 
+$ ./start-kali.sh 
+```
 <hr>
 
 ### Open VNC viewer And Follow Instructions: 💻
