@@ -35,21 +35,17 @@ Before getting started, ensure that you have the following prerequisites:
 [Press Here To Download RVNC Viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android&pcampaignid=web_share)
 
 ### Open Andronix And Follow Instructions: 💻
-Step 1:                                                           Step 2:
+Step 1 & 2 :
 
 <div style="text-align: center;"><img src="images/photo1.jpg" style="width: 40%;">  <img src="images/photo2.jpg" style="width: 40%;"></a></div> 
 
-Step 2:
+Step 3 & 4 :
 
-<div style="text-align: center;"></a></div> 
-
-Step 3:
-
-<div style="text-align: center;"><img src="images/photo3.jpg" style="width: 40%;"></a></div> 
+<div style="text-align: center;"><img src="images/photo3.jpg" style="width: 40%;"><img src="images/photo4.jpg" style="width: 40%;"></a></div> 
 
 Step 4:
 
-<div style="text-align: center;"><img src="images/photo4.jpg" style="width: 40%;"></a></div> 
+<div style="text-align: center;"></a></div> 
 
 Step 5:
 
