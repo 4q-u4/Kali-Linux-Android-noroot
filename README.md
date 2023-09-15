@@ -50,6 +50,9 @@ Last Step :
 
 ### Open Termux And Follow Instructions: 💻
 
-1. Open Termux and update its package lists:
-   ```shell
-   pkg update && pkg upgrade
+1. Open Termux and Paste the code you copied and press enter (You Have To be online for this to work)
+2. After That depending on The Distro You Install , You have a start command like :
+   shell
+   ''
+   ./start-kali.sh
+   ''
