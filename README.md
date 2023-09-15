@@ -57,8 +57,10 @@ Last Step :
 4. You can Start VNC server by:
    
 ```bash
-   
-$ echo vncserver-start
-
+$ vncserver-start
+```
+5. You can Stop VNC server by running:
+```bash
+$ vncserver-stop
 ```
 
