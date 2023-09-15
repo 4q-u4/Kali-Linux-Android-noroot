@@ -55,6 +55,9 @@ Last Step :
 2. Once its downloading and setting up linux, it'll start running the vnc server (PORT 5901 localhost)
 3. Provide a password for the vnc server
 4. You can Start VNC server by:
+   
    ```bash
+   
 $ echo vncserver-start
+
 ```
