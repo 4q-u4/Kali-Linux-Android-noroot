@@ -51,8 +51,10 @@ Last Step :
 ### Open Termux And Follow Instructions: 💻
 
 1. Open Termux and Paste the code you copied and press enter (You Have To be online for this to work)
-2. After That depending on The Distro You Install , You have a start command like :
-   shell
-   ''
-   ./start-kali.sh
-   ''
+   (If you see any prompts, press enter key to choose the defaults)
+2. Once its downloading and setting up linux, it'll start running the vnc server (PORT 5901 localhost)
+3. Provide a password for the vnc server
+4. You can Start VNC server by:
+   ```shell
+$ vncserver-start"
+```
