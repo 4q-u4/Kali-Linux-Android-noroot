@@ -34,11 +34,12 @@ Before getting started, ensure that you have the following prerequisites:
 
 [Press Here To Download RVNC Viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android&pcampaignid=web_share)
 
-### Setting up Kali Linux 💻
-
-
+### Open Andronix And Follow Instructions: 💻
+Step 1:
 <div style="text-align: center;"><img src="images/photo1.jpg" style="width: 50%;"></a></div> 
+Step 2:
 <div style="text-align: center;"><img src="images/photo2.jpg" style="width: 50%;"></a></div> 
+Step 3:
 <div style="text-align: center;"><img src="images/photo3.jpg" style="width: 50%;"></a></div> 
 
 1. Open Termux and update its package lists:
