@@ -56,8 +56,9 @@ Last Step :
 3. Provide a password for the vnc server
 4. You can Start VNC server by:
    
-   ```bash
+```bash
    
 $ echo vncserver-start
 
 ```
+
