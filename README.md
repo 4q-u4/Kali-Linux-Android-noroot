@@ -37,11 +37,11 @@ Before getting started, ensure that you have the following prerequisites:
 ### Open Andronix And Follow Instructions: 💻
 Step 1:
 
-<div style="text-align: center;"><img src="images/photo1.jpg" style="width: 40%;"></a></div> 
+<div style="text-align: center;"><img src="images/photo1.jpg" style="width: 40%;"><img src="images/photo2.jpg" style="width: 40%;"></a></div> 
 
 Step 2:
 
-<div style="text-align: center;"><img src="images/photo2.jpg" style="width: 40%;"></a></div> 
+<div style="text-align: center;"></a></div> 
 
 Step 3:
 
