@@ -79,4 +79,3 @@ If you encounter any issues during the installation or usage of Kali Linux on yo
 ## Contributing 🤝
 
 Contributions to this repository are welcome. If you have any improvements, bug fixes, or additional documentation to contribute, please fork this repository and submit a pull request.
-
