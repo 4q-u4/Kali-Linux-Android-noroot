@@ -6,7 +6,6 @@ This repository provides a step-by-step guide on how to achieve this setup using
 
 If you found this guide helpful and appreciate the effort put into creating it, please consider giving this repository a star (⭐) on GitHub. Your support means a lot and will help others discover this resource.
 
-
 ## Prerequisites 🛠️
 
 Before getting started, ensure that you have the following prerequisites:
